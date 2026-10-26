@@ -12,4 +12,4 @@ EXPERIMENT-6: Campus Festival Registration and Financial Audit
 EXPERIMENT-7: Student Timetable Conflict Detection
 EXPERIMENT-8: String-Based Examination Answer Evalution
 EXPERIMENT-9: University Admission Decision Engine
-EXPERIMENT-10: Multi-stage Examination Eligibility System
+EXPERIMENT-10: Multi-stage Examination Eligibility System.
